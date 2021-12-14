@@ -101,10 +101,15 @@ form{
 	margin: 40px 0;
 }
 
-form input{
+form label{
 	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
 }
 
-form label {
+form input {
 	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
 }
