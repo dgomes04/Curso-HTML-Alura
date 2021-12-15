@@ -117,3 +117,19 @@ form label, form legend{
 .checkbox{
 	margin: 20px 0;
 }
+
+.formulario{
+	width: 40%;
+	padding: 15px 0;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border-style: none;
+	border-radius: 5px;
+	transition: 0.5s background;
+}
+
+.formulario:hover{
+	background-color: darkorange;
+}
